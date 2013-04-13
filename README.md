@@ -1,10 +1,10 @@
-meander
+Meander
 =======
 
 Make a browser "meander" through a site at random.  A great way to put an idle monitor to use to show a WIP site.  The author prefers this approach to cycling through a manually assembled list of URLs at random because Meander strays from the happy path without discerning.
 
 Usage
-=====
+-----
 Point a browser to a copy of meander.html with a starting URL in the querystring, like so:
 
 	http://localhost/misc/meander.html?url=http://localhost/my-project
